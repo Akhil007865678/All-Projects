@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(245, 221, 225);
+    color: teal;
+}
+.heading{
+    justify-content: center;
+    display: flex;
+}
+.project{
+    margin-top: 300px;
+    font-size: 50px;
+}
+.bgc{
+    height: 700px;
+    margin-top: 40px;
+}
+#tik-tak{
+    background-image: url(tik-tak-bg.png);
+
+}
+#color-switcher{
+    background-image: url(color-switcher.png);
+}
+#online-form{
+    background-image: url(online-form.png);
+}
